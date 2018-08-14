@@ -1,7 +1,12 @@
 .PHONY=packages_backup packages_restore
 
-packages_backup:
+backup:
 	apm list --installed --bare > ~/.atom/package.list
 
-packages_restore:
+restore:
 	apm install --packages-file ~/.atom/package.list
+
+install: PKG?=
+install:
+	apm install ${PKG}
+	$(MAKE) backup
