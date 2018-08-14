@@ -1,9 +1,12 @@
-.PHONY=packages_backup packages_restore
+.PHONY=backup restore deps install
 
 backup:
 	apm list --installed --bare > ~/.atom/package.list
 
-restore:
+deps:
+	pip install flake8
+
+restore: deps
 	apm install --packages-file ~/.atom/package.list
 
 install: PKG?=
