@@ -7,7 +7,7 @@ New machine set up
 
 On a new mac from the home folder (from terminal):
 
-..code-block:: bash
+.. code-block:: bash
 
 	# Initial checkout
 	git clone git@github.com:oisinmulvihill/atom-config-osx.git .atom
