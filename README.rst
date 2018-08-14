@@ -12,7 +12,12 @@ On a new mac from the home folder (from terminal):
 	# Initial checkout
 	git clone git@github.com:oisinmulvihill/atom-config-osx.git .atom
 
-	# Restore packages
+Now download, install and run once to accept the permissions / allow to run. Exit
+Atom and then come back to do the restore:
+
+.. code-block:: bash
+
+	# Restore packages now apm tool is in path
 	make restore
 
 
