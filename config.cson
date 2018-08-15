@@ -9,6 +9,9 @@
   "exception-reporting":
     userId: "001b0289-fe3c-4b4d-b294-24918cb878d9"
   "linter-ui-default": {}
-  minimap: {}
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
   welcome:
     showOnStartup: false
