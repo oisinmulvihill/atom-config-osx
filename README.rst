@@ -20,6 +20,9 @@ Atom and then come back to do the restore:
 	# Restore packages now apm tool is in path
 	make restore
 
+I installed the customer Meslo LG font from here which I think works well for me:
+
+- https://github.com/andreberg/Meslo-Font
 
 Installing a package
 --------------------
