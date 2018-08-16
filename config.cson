@@ -2,7 +2,7 @@
   core:
     telemetryConsent: "no"
     themes: [
-      "glacier-dark-ui"
+      "seti-ui"
       "monokai-sublime"
     ]
   editor: {}
