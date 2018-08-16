@@ -8,6 +8,9 @@
   editor:
     fontFamily: "Meslo LG M"
     fontSize: 15
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrapAtPreferredLineLength: true
   "exception-reporting":
     userId: "001b0289-fe3c-4b4d-b294-24918cb878d9"
   "linter-ui-default": {}

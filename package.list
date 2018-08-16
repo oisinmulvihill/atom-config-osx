@@ -5,6 +5,8 @@ glacier-dark-ui@0.5.0
 highlight-selected@0.14.0
 intentions@1.1.5
 language-babel@2.85.0
+language-jenkinsfile@0.1.1
+language-restructuredtext@1.1.2
 language-terraform@0.8.1
 linter@2.2.0
 linter-csslint@2.0.1
