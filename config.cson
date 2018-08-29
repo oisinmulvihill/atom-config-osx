@@ -10,6 +10,7 @@
     fontSize: 15
     scrollPastEnd: true
     showIndentGuide: true
+    softWrap: true
     softWrapAtPreferredLineLength: true
   "exception-reporting":
     userId: "001b0289-fe3c-4b4d-b294-24918cb878d9"
