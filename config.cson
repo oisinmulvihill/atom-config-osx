@@ -6,8 +6,8 @@
       "monokai-sublime"
     ]
   editor:
-    fontFamily: "Meslo LG M"
-    fontSize: 16
+    fontFamily: "Hack"
+    fontSize: 18
     scrollPastEnd: true
     showIndentGuide: true
     softWrap: true
