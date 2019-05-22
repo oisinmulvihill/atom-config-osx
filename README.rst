@@ -24,6 +24,11 @@ I installed the customer Meslo LG font from here which I think works well for me
 
 - https://github.com/andreberg/Meslo-Font
 
+I'm also trying out the Hack font from 
+
+- https://sourcefoundry.org/hack/
+
+
 Installing a package
 --------------------
 

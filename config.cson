@@ -6,15 +6,16 @@
       "monokai-sublime"
     ]
   editor:
-    fontFamily: "Meslo LG M"
-    fontSize: 17
+    fontFamily: "Hack"
+    fontSize: 18
     scrollPastEnd: true
     showIndentGuide: true
     softWrap: true
     softWrapAtPreferredLineLength: true
   "exception-reporting":
     userId: "001b0289-fe3c-4b4d-b294-24918cb878d9"
-  "linter-ui-default": {}
+  "linter-ui-default":
+    panelHeight: 480
   minimap:
     plugins:
       "highlight-selected": true
