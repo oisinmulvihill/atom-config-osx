@@ -7,7 +7,7 @@
     ]
   editor:
     fontFamily: "Hack"
-    fontSize: 18
+    fontSize: 16
     scrollPastEnd: true
     showIndentGuide: true
     softWrap: true
