@@ -7,14 +7,16 @@
     ]
   editor:
     fontFamily: "Hack"
-    fontSize: 16
+    fontSize: 17
     scrollPastEnd: true
     showIndentGuide: true
     softWrap: true
     softWrapAtPreferredLineLength: true
   "exception-reporting":
     userId: "001b0289-fe3c-4b4d-b294-24918cb878d9"
-  "linter-ui-default": {}
+  "linter-ui-default":
+    panelHeight: 260
+    showPanel: true
   minimap:
     plugins:
       "highlight-selected": true
