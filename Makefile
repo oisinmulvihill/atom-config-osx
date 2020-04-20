@@ -4,7 +4,8 @@ backup:
 	apm list --installed --bare > ~/.atom/package.list
 
 deps:
-	pip install flake8
+	#old: pip install flake8
+	python3 -m pip install flake8
 
 restore: deps
 	apm install --packages-file ~/.atom/package.list
